@@ -1,3 +1,5 @@
 4/25:
 - week 1 of Front-end Web UI
 - pending: assignment 1
+- created git repo: WebProject_FrontEndUI
+- matched the local conFusion directory with the git repo, setted it as origin
