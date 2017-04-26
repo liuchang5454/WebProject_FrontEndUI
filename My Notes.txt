@@ -1,0 +1,3 @@
+4/25:
+- week 1 of Front-end Web UI
+- pending: assignment 1
